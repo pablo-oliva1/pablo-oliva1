@@ -7,5 +7,4 @@ Finalizing the degree in Network Computer Systems Administration. Currently impr
 - **Sec:** `Cybersecurity` `Network Segmentation` `UFW` `Nmap`
 - **Virt:** `VirtualBox` `KVM/QEMU`
 - **Cli:** `Bash` `Fish`
-<br>
 - **Next:** `Active Directory` `Python` `PowerShell` `Docker` `Hardening`
