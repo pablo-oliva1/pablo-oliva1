@@ -1,6 +1,6 @@
 ## Pablo Oliva
 
-Finalizing the degree in Network Computer Systems Administration. Currently improving my skills in network deployment, protocols, subnetting and server management. 
+Finalizando Administración de Sistemas Informáticos en Red. Actualmente estoy perfeccionando mis competencias en despliegue de redes, protocolos, segmentación (subnetting), servidores y seguridad.
 
 - **Sist:** `Linux` `Permissions` `Storage` `SSH` 
 - **Net:** `TCP/IP` `Subnetting` `VLAN` `Routing`
